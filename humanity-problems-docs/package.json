@@ -1,0 +1,25 @@
+{
+  "name": "humanity-problems-documentation",
+  "version": "1.0.0",
+  "description": "Comprehensive documentation system analyzing humanity's fundamental problems",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node scripts/validate-structure.js",
+    "validate-refs": "node scripts/validate-references.js",
+    "validate-content": "node scripts/comprehensive-content-validator.js",
+    "validate-structure": "node scripts/structural-validation-system.js",
+    "validate-indexing": "node scripts/metadata-indexing-system.js",
+    "validate-all": "node scripts/integrated-validation-system.js",
+    "validate-quick": "node scripts/integrated-validation-system.js --quick",
+    "test": "vitest --run",
+    "test:watch": "vitest",
+    "test:validation": "vitest --run tests/validation-system-properties.test.js"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "fast-check": "^3.0.0",
+    "markdown-it": "^14.0.0",
+    "js-yaml": "^4.1.0"
+  },
+  "type": "module"
+}

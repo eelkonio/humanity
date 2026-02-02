@@ -1,0 +1,1109 @@
+{
+  "timestamp": "2026-01-23T15:52:55.182Z",
+  "summary": {
+    "totalDocuments": 40,
+    "totalCrossReferences": 965,
+    "validReferences": 450,
+    "brokenReferences": 106,
+    "missingBackReferences": 0
+  },
+  "brokenLinks": [
+    {
+      "source": "index/master-index.md",
+      "target": "workshop/README.md",
+      "linkText": "**Workshop Materials**",
+      "type": "broken_file"
+    },
+    {
+      "source": "index/master-index.md",
+      "target": "workshop/README.md",
+      "linkText": "Workshop Materials",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/addiction-compulsion.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/behavioral-economics.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/cognitive-architecture.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/cognitive-biases-heuristics.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/evolutionary-foundations.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/existential-psychology.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/neurobiological-constraints.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    },
+    {
+      "source": "individual/psychological-pathology.md",
+      "target": "individual/README.md",
+      "linkText": "Individual Psychology Overview",
+      "type": "broken_file"
+    }
+  ],
+  "missingReferences": [
+    {
+      "source": "README.md",
+      "reference": "Category → Document",
+      "type": "see",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "README.md",
+      "reference": "Category → Document",
+      "type": "related",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "README.md",
+      "reference": "Category → Document",
+      "type": "compare",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "historical/civilizational-collapse.md",
+      "reference": "Individual Psychology → Cognitive Biases",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Cognitive Biases"
+    },
+    {
+      "source": "historical/civilizational-collapse.md",
+      "reference": "Group Dynamics → Elite Pathologies",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Elite Pathologies"
+    },
+    {
+      "source": "historical/civilizational-collapse.md",
+      "reference": "Societal Analysis → Political Systems Failure",
+      "type": "compare",
+      "category": "Societal Analysis",
+      "document": "Political Systems Failure"
+    },
+    {
+      "source": "historical/pandemic-crisis-response.md",
+      "reference": "Individual Psychology → Stress Response",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Stress Response"
+    },
+    {
+      "source": "historical/pandemic-crisis-response.md",
+      "reference": "Group Dynamics → Collective Behavior",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Collective Behavior"
+    },
+    {
+      "source": "historical/pandemic-crisis-response.md",
+      "reference": "Historical Analysis → Recurring Crises",
+      "type": "compare",
+      "category": "Historical Analysis",
+      "document": "Recurring Crises"
+    },
+    {
+      "source": "historical/recurring-crises.md",
+      "reference": "Individual Psychology → Temporal Discounting",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Temporal Discounting"
+    },
+    {
+      "source": "historical/recurring-crises.md",
+      "reference": "Group Dynamics → Collective Memory",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Collective Memory"
+    },
+    {
+      "source": "historical/recurring-crises.md",
+      "reference": "Historical Analysis → Civilizational Collapse",
+      "type": "compare",
+      "category": "Historical Analysis",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "historical/recurring-crises.md",
+      "reference": "speculation → collapse",
+      "type": "arrow",
+      "category": "speculation",
+      "document": "collapse"
+    },
+    {
+      "source": "historical/recurring-crises.md",
+      "reference": "irrational exuberance → crash",
+      "type": "arrow",
+      "category": "irrational exuberance",
+      "document": "crash"
+    },
+    {
+      "source": "historical/recurring-crises.md",
+      "reference": "subprime collapse → global recession",
+      "type": "arrow",
+      "category": "subprime collapse",
+      "document": "global recession"
+    },
+    {
+      "source": "historical/religious-ideological-extremism.md",
+      "reference": "Individual Psychology → Need for Meaning",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Need for Meaning"
+    },
+    {
+      "source": "historical/religious-ideological-extremism.md",
+      "reference": "Group Dynamics → Authority Obedience",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Authority Obedience"
+    },
+    {
+      "source": "historical/religious-ideological-extremism.md",
+      "reference": "Historical Analysis → War and Conflict",
+      "type": "compare",
+      "category": "Historical Analysis",
+      "document": "War and Conflict"
+    },
+    {
+      "source": "historical/war-and-conflict.md",
+      "reference": "Individual Psychology → Aggression",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Aggression"
+    },
+    {
+      "source": "historical/war-and-conflict.md",
+      "reference": "Group Dynamics → In-group Bias",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "In-group Bias"
+    },
+    {
+      "source": "historical/war-and-conflict.md",
+      "reference": "Historical Analysis → Civilizational Collapse",
+      "type": "compare",
+      "category": "Historical Analysis",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "index/cross-reference-map.md",
+      "reference": "Group → Societal Progression",
+      "type": "arrow",
+      "category": "Group",
+      "document": "Societal Progression"
+    },
+    {
+      "source": "index/level-index.md",
+      "reference": "Group conflict → Warfare |",
+      "type": "arrow",
+      "category": "Group conflict",
+      "document": "Warfare |"
+    },
+    {
+      "source": "index/level-index.md",
+      "reference": "Group dynamics → Cultural movements |",
+      "type": "arrow",
+      "category": "Group dynamics",
+      "document": "Cultural movements |"
+    },
+    {
+      "source": "index/level-index.md",
+      "reference": "Collective response → Systemic outcomes |",
+      "type": "arrow",
+      "category": "Collective response",
+      "document": "Systemic outcomes |"
+    },
+    {
+      "source": "index/master-index.md",
+      "reference": "Category → Document",
+      "type": "see",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "index/master-index.md",
+      "reference": "Category → Document",
+      "type": "related",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "index/master-index.md",
+      "reference": "Category → Document",
+      "type": "compare",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "integrative/complexity-science.md",
+      "reference": "Integrative → Systems Theory Perspective",
+      "type": "see",
+      "category": "Integrative",
+      "document": "Systems Theory Perspective"
+    },
+    {
+      "source": "integrative/complexity-science.md",
+      "reference": "Societal → Political Systems Failure",
+      "type": "see",
+      "category": "Societal",
+      "document": "Political Systems Failure"
+    },
+    {
+      "source": "integrative/complexity-science.md",
+      "reference": "Individual → Cognitive Architecture",
+      "type": "related",
+      "category": "Individual",
+      "document": "Cognitive Architecture"
+    },
+    {
+      "source": "integrative/complexity-science.md",
+      "reference": "Historical → Civilizational Collapse",
+      "type": "related",
+      "category": "Historical",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "integrative/complexity-science.md",
+      "reference": "Group → Collective Behavior",
+      "type": "compare",
+      "category": "Group",
+      "document": "Collective Behavior"
+    },
+    {
+      "source": "integrative/cross-level-integration.md",
+      "reference": "Individual → Cognitive Architecture",
+      "type": "see",
+      "category": "Individual",
+      "document": "Cognitive Architecture"
+    },
+    {
+      "source": "integrative/cross-level-integration.md",
+      "reference": "Integrative → Systems Theory Perspective",
+      "type": "see",
+      "category": "Integrative",
+      "document": "Systems Theory Perspective"
+    },
+    {
+      "source": "integrative/cross-level-integration.md",
+      "reference": "Group → Social Psychology",
+      "type": "related",
+      "category": "Group",
+      "document": "Social Psychology"
+    },
+    {
+      "source": "integrative/cross-level-integration.md",
+      "reference": "Integrative → Complexity Science",
+      "type": "related",
+      "category": "Integrative",
+      "document": "Complexity Science"
+    },
+    {
+      "source": "integrative/cross-level-integration.md",
+      "reference": "Societal → Political Systems Failure",
+      "type": "compare",
+      "category": "Societal",
+      "document": "Political Systems Failure"
+    },
+    {
+      "source": "integrative/future-projections.md",
+      "reference": "Integrative → Systems Theory Perspective",
+      "type": "see",
+      "category": "Integrative",
+      "document": "Systems Theory Perspective"
+    },
+    {
+      "source": "integrative/future-projections.md",
+      "reference": "Societal → Environmental Degradation",
+      "type": "see",
+      "category": "Societal",
+      "document": "Environmental Degradation"
+    },
+    {
+      "source": "integrative/future-projections.md",
+      "reference": "Integrative → Complexity Science",
+      "type": "related",
+      "category": "Integrative",
+      "document": "Complexity Science"
+    },
+    {
+      "source": "integrative/future-projections.md",
+      "reference": "Historical → Civilizational Collapse",
+      "type": "related",
+      "category": "Historical",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "integrative/future-projections.md",
+      "reference": "Societal → Technological Disruption",
+      "type": "compare",
+      "category": "Societal",
+      "document": "Technological Disruption"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Individual → Cognitive Architecture",
+      "type": "see",
+      "category": "Individual",
+      "document": "Cognitive Architecture"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Historical → Civilizational Collapse",
+      "type": "see",
+      "category": "Historical",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Group → Collective Behavior",
+      "type": "related",
+      "category": "Group",
+      "document": "Collective Behavior"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Integrative → Complexity Science",
+      "type": "related",
+      "category": "Integrative",
+      "document": "Complexity Science"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Societal → Political Systems Failure",
+      "type": "compare",
+      "category": "Societal",
+      "document": "Political Systems Failure"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Economic strain → Political instability | Barbarian invasions |",
+      "type": "arrow",
+      "category": "Economic strain",
+      "document": "Political instability | Barbarian invasions |"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Deforestation → Agricultural failure | Drought periods |",
+      "type": "arrow",
+      "category": "Deforestation",
+      "document": "Agricultural failure | Drought periods |"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Information distortion → Economic inefficiency | Economic stagnation |",
+      "type": "arrow",
+      "category": "Information distortion",
+      "document": "Economic inefficiency | Economic stagnation |"
+    },
+    {
+      "source": "integrative/systems-theory-perspective.md",
+      "reference": "Social displacement → Adaptation or breakdown",
+      "type": "arrow",
+      "category": "Social displacement",
+      "document": "Adaptation or breakdown"
+    },
+    {
+      "source": "integrative/theoretical-synthesis.md",
+      "reference": "Integrative → Systems Theory Perspective",
+      "type": "see",
+      "category": "Integrative",
+      "document": "Systems Theory Perspective"
+    },
+    {
+      "source": "integrative/theoretical-synthesis.md",
+      "reference": "Integrative → Complexity Science",
+      "type": "related",
+      "category": "Integrative",
+      "document": "Complexity Science"
+    },
+    {
+      "source": "integrative/theoretical-synthesis.md",
+      "reference": "Integrative → Cross-Level Integration",
+      "type": "compare",
+      "category": "Integrative",
+      "document": "Cross-Level Integration"
+    },
+    {
+      "source": "societal/cultural-pathology.md",
+      "reference": "Individual Psychology → Existential Psychology",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Existential Psychology"
+    },
+    {
+      "source": "societal/cultural-pathology.md",
+      "reference": "Group Dynamics → Social Psychology",
+      "type": "see",
+      "category": "Group Dynamics",
+      "document": "Social Psychology"
+    },
+    {
+      "source": "societal/cultural-pathology.md",
+      "reference": "Political Systems → Democratic Backsliding",
+      "type": "related",
+      "category": "Political Systems",
+      "document": "Democratic Backsliding"
+    },
+    {
+      "source": "societal/cultural-pathology.md",
+      "reference": "Historical Analysis → Civilizational Collapse",
+      "type": "compare",
+      "category": "Historical Analysis",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "societal/economic-system-dysfunction.md",
+      "reference": "Individual Psychology → Behavioral Economics",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Behavioral Economics"
+    },
+    {
+      "source": "societal/economic-system-dysfunction.md",
+      "reference": "Political Systems → Governance Failures",
+      "type": "see",
+      "category": "Political Systems",
+      "document": "Governance Failures"
+    },
+    {
+      "source": "societal/economic-system-dysfunction.md",
+      "reference": "Group Dynamics → Organizational Pathology",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Organizational Pathology"
+    },
+    {
+      "source": "societal/economic-system-dysfunction.md",
+      "reference": "Historical Analysis → Civilizational Collapse",
+      "type": "compare",
+      "category": "Historical Analysis",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "societal/environmental-degradation.md",
+      "reference": "Individual Psychology → Temporal Discounting",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Temporal Discounting"
+    },
+    {
+      "source": "societal/environmental-degradation.md",
+      "reference": "Economic Systems → Market Failures",
+      "type": "see",
+      "category": "Economic Systems",
+      "document": "Market Failures"
+    },
+    {
+      "source": "societal/environmental-degradation.md",
+      "reference": "Political Systems → Collective Action Problems",
+      "type": "related",
+      "category": "Political Systems",
+      "document": "Collective Action Problems"
+    },
+    {
+      "source": "societal/environmental-degradation.md",
+      "reference": "Technological Systems → Unintended Consequences",
+      "type": "compare",
+      "category": "Technological Systems",
+      "document": "Unintended Consequences"
+    },
+    {
+      "source": "societal/political-systems-failure.md",
+      "reference": "Individual Psychology → Cognitive Biases",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Cognitive Biases"
+    },
+    {
+      "source": "societal/political-systems-failure.md",
+      "reference": "Group Dynamics → Social Psychology",
+      "type": "see",
+      "category": "Group Dynamics",
+      "document": "Social Psychology"
+    },
+    {
+      "source": "societal/political-systems-failure.md",
+      "reference": "Economic Systems → Market Failures",
+      "type": "related",
+      "category": "Economic Systems",
+      "document": "Market Failures"
+    },
+    {
+      "source": "societal/political-systems-failure.md",
+      "reference": "Historical Analysis → Civilizational Collapse",
+      "type": "compare",
+      "category": "Historical Analysis",
+      "document": "Civilizational Collapse"
+    },
+    {
+      "source": "societal/technological-disruption.md",
+      "reference": "Individual Psychology → Cognitive Biases",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Cognitive Biases"
+    },
+    {
+      "source": "societal/technological-disruption.md",
+      "reference": "Individual Psychology → Addiction and Compulsion",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Addiction and Compulsion"
+    },
+    {
+      "source": "societal/technological-disruption.md",
+      "reference": "Economic Systems → Labor Market Disruption",
+      "type": "related",
+      "category": "Economic Systems",
+      "document": "Labor Market Disruption"
+    },
+    {
+      "source": "societal/technological-disruption.md",
+      "reference": "Cultural Systems → Digital Culture Dysfunction",
+      "type": "compare",
+      "category": "Cultural Systems",
+      "document": "Digital Culture Dysfunction"
+    },
+    {
+      "source": "specialized/aging-mortality-anxiety.md",
+      "reference": "Individual Psychology → Existential Psychology",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Existential Psychology"
+    },
+    {
+      "source": "specialized/aging-mortality-anxiety.md",
+      "reference": "Group Dynamics → Social Psychology",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Social Psychology"
+    },
+    {
+      "source": "specialized/aging-mortality-anxiety.md",
+      "reference": "Cultural Analysis → Cultural Pathology",
+      "type": "compare",
+      "category": "Cultural Analysis",
+      "document": "Cultural Pathology"
+    },
+    {
+      "source": "specialized/communication-language-failures.md",
+      "reference": "Individual Psychology → Cognitive Architecture",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Cognitive Architecture"
+    },
+    {
+      "source": "specialized/communication-language-failures.md",
+      "reference": "Group Dynamics → Social Psychology",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Social Psychology"
+    },
+    {
+      "source": "specialized/communication-language-failures.md",
+      "reference": "Societal Analysis → Political Systems Failure",
+      "type": "compare",
+      "category": "Societal Analysis",
+      "document": "Political Systems Failure"
+    },
+    {
+      "source": "specialized/education-knowledge-transmission-failures.md",
+      "reference": "Individual Psychology → Cognitive Architecture",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Cognitive Architecture"
+    },
+    {
+      "source": "specialized/education-knowledge-transmission-failures.md",
+      "reference": "Communication → Language Failures",
+      "type": "related",
+      "category": "Communication",
+      "document": "Language Failures"
+    },
+    {
+      "source": "specialized/education-knowledge-transmission-failures.md",
+      "reference": "Societal Analysis → Cultural Pathology",
+      "type": "compare",
+      "category": "Societal Analysis",
+      "document": "Cultural Pathology"
+    },
+    {
+      "source": "specialized/education-knowledge-transmission-failures.md",
+      "reference": "Institutional Quality → Societal Progress",
+      "type": "arrow",
+      "category": "Institutional Quality",
+      "document": "Societal Progress"
+    },
+    {
+      "source": "specialized/gender-sexuality-dysfunction.md",
+      "reference": "Individual Psychology → Evolutionary Foundations",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Evolutionary Foundations"
+    },
+    {
+      "source": "specialized/gender-sexuality-dysfunction.md",
+      "reference": "Group Dynamics → Social Psychology",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Social Psychology"
+    },
+    {
+      "source": "specialized/gender-sexuality-dysfunction.md",
+      "reference": "Societal Analysis → Cultural Pathology",
+      "type": "compare",
+      "category": "Societal Analysis",
+      "document": "Cultural Pathology"
+    },
+    {
+      "source": "specialized/power-dominance.md",
+      "reference": "Individual Psychology → Psychological Pathology",
+      "type": "see",
+      "category": "Individual Psychology",
+      "document": "Psychological Pathology"
+    },
+    {
+      "source": "specialized/power-dominance.md",
+      "reference": "Group Dynamics → Organizational Pathology",
+      "type": "related",
+      "category": "Group Dynamics",
+      "document": "Organizational Pathology"
+    },
+    {
+      "source": "specialized/power-dominance.md",
+      "reference": "Societal Analysis → Political Systems Failure",
+      "type": "compare",
+      "category": "Societal Analysis",
+      "document": "Political Systems Failure"
+    },
+    {
+      "source": "specialized/power-dominance.md",
+      "reference": "Institutional → Societal Amplification",
+      "type": "arrow",
+      "category": "Institutional",
+      "document": "Societal Amplification"
+    },
+    {
+      "source": "specialized/power-dominance.md",
+      "reference": "Power → More Wealth Cycles",
+      "type": "arrow",
+      "category": "Power",
+      "document": "More Wealth Cycles"
+    },
+    {
+      "source": "templates/document-template.md",
+      "reference": "Category → Document",
+      "type": "see",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "templates/document-template.md",
+      "reference": "Category → Document",
+      "type": "related",
+      "category": "Category",
+      "document": "Document"
+    },
+    {
+      "source": "templates/document-template.md",
+      "reference": "Category → Document",
+      "type": "compare",
+      "category": "Category",
+      "document": "Document"
+    }
+  ],
+  "documentCoverage": [
+    {
+      "document": "README.md",
+      "title": "Humanity's Fundamental Problems Documentation System",
+      "incomingReferences": 0,
+      "outgoingReferences": 6,
+      "totalReferences": 6
+    },
+    {
+      "document": "group/collective-behavior.md",
+      "title": "Collective Behavior: Mob Psychology, Mass Movements, and Social Contagion",
+      "incomingReferences": 16,
+      "outgoingReferences": 3,
+      "totalReferences": 19
+    },
+    {
+      "document": "group/group-decision-making-failures.md",
+      "title": "Group Decision-Making Failures: Groupthink, Polarization, and Collective Irrationality",
+      "incomingReferences": 13,
+      "outgoingReferences": 3,
+      "totalReferences": 16
+    },
+    {
+      "document": "group/organizational-pathology.md",
+      "title": "Organizational Pathology: Institutional Dysfunction and Bureaucratic Failures",
+      "incomingReferences": 12,
+      "outgoingReferences": 3,
+      "totalReferences": 15
+    },
+    {
+      "document": "group/social-psychology.md",
+      "title": "Social Psychology: Group Dynamics and Collective Dysfunction",
+      "incomingReferences": 26,
+      "outgoingReferences": 10,
+      "totalReferences": 36
+    },
+    {
+      "document": "group/tribal-psychology.md",
+      "title": "Tribal Psychology: Evolutionary Basis and Modern Manifestations",
+      "incomingReferences": 12,
+      "outgoingReferences": 3,
+      "totalReferences": 15
+    },
+    {
+      "document": "historical/civilizational-collapse.md",
+      "title": "Civilizational Collapse: Patterns of Societal Breakdown Across History",
+      "incomingReferences": 19,
+      "outgoingReferences": 4,
+      "totalReferences": 23
+    },
+    {
+      "document": "historical/pandemic-crisis-response.md",
+      "title": "Pandemic and Crisis Response: Human Behavioral Failures Under Existential Threat",
+      "incomingReferences": 5,
+      "outgoingReferences": 4,
+      "totalReferences": 9
+    },
+    {
+      "document": "historical/recurring-crises.md",
+      "title": "Recurring Crises: Cyclical Patterns of Human Conflict and Dysfunction",
+      "incomingReferences": 10,
+      "outgoingReferences": 7,
+      "totalReferences": 17
+    },
+    {
+      "document": "historical/religious-ideological-extremism.md",
+      "title": "Religious and Ideological Extremism: The Psychology of Absolute Belief",
+      "incomingReferences": 12,
+      "outgoingReferences": 4,
+      "totalReferences": 16
+    },
+    {
+      "document": "historical/war-and-conflict.md",
+      "title": "War and Conflict: The Psychological and Sociological Roots of Human Violence",
+      "incomingReferences": 11,
+      "outgoingReferences": 4,
+      "totalReferences": 15
+    },
+    {
+      "document": "index/cross-reference-map.md",
+      "title": "Cross-Reference Map",
+      "incomingReferences": 4,
+      "outgoingReferences": 108,
+      "totalReferences": 112
+    },
+    {
+      "document": "index/discipline-index.md",
+      "title": "Discipline-Based Index",
+      "incomingReferences": 4,
+      "outgoingReferences": 90,
+      "totalReferences": 94
+    },
+    {
+      "document": "index/level-index.md",
+      "title": "Level-Based Index",
+      "incomingReferences": 4,
+      "outgoingReferences": 63,
+      "totalReferences": 67
+    },
+    {
+      "document": "index/master-index.md",
+      "title": "Master Index: Humanity's Fundamental Problems Documentation System",
+      "incomingReferences": 4,
+      "outgoingReferences": 78,
+      "totalReferences": 82
+    },
+    {
+      "document": "index/topic-index.md",
+      "title": "Topic-Based Index",
+      "incomingReferences": 4,
+      "outgoingReferences": 175,
+      "totalReferences": 179
+    },
+    {
+      "document": "individual/addiction-compulsion.md",
+      "title": "Addiction and Compulsive Behaviors: Neurochemical Hijacking of Human Motivation",
+      "incomingReferences": 8,
+      "outgoingReferences": 3,
+      "totalReferences": 11
+    },
+    {
+      "document": "individual/behavioral-economics.md",
+      "title": "Behavioral Economics and Systematic Irrationality in Decision-Making",
+      "incomingReferences": 16,
+      "outgoingReferences": 3,
+      "totalReferences": 19
+    },
+    {
+      "document": "individual/cognitive-architecture.md",
+      "title": "Cognitive Architecture and Systematic Reasoning Failures",
+      "incomingReferences": 22,
+      "outgoingReferences": 4,
+      "totalReferences": 26
+    },
+    {
+      "document": "individual/cognitive-biases-heuristics.md",
+      "title": "Cognitive Biases and Heuristics: Systematic Thinking Errors",
+      "incomingReferences": 11,
+      "outgoingReferences": 3,
+      "totalReferences": 14
+    },
+    {
+      "document": "individual/evolutionary-foundations.md",
+      "title": "Evolutionary Foundations of Human Dysfunction",
+      "incomingReferences": 15,
+      "outgoingReferences": 3,
+      "totalReferences": 18
+    },
+    {
+      "document": "individual/existential-psychology.md",
+      "title": "Existential Psychology and Meaning-Making Failures",
+      "incomingReferences": 15,
+      "outgoingReferences": 3,
+      "totalReferences": 18
+    },
+    {
+      "document": "individual/neurobiological-constraints.md",
+      "title": "Neurobiological Constraints and Behavioral Limitations",
+      "incomingReferences": 15,
+      "outgoingReferences": 3,
+      "totalReferences": 18
+    },
+    {
+      "document": "individual/psychological-pathology.md",
+      "title": "Psychological Pathology and Individual Dysfunction",
+      "incomingReferences": 8,
+      "outgoingReferences": 4,
+      "totalReferences": 12
+    },
+    {
+      "document": "integrative/complexity-science.md",
+      "title": "Complexity Science Applications to Human Systems",
+      "incomingReferences": 8,
+      "outgoingReferences": 13,
+      "totalReferences": 21
+    },
+    {
+      "document": "integrative/cross-level-integration.md",
+      "title": "Cross-Level Integration: Synthesizing Individual, Group, and Societal Analysis",
+      "incomingReferences": 12,
+      "outgoingReferences": 155,
+      "totalReferences": 167
+    },
+    {
+      "document": "integrative/future-projections.md",
+      "title": "Future Projections: Trajectories of Human Dysfunction",
+      "incomingReferences": 14,
+      "outgoingReferences": 11,
+      "totalReferences": 25
+    },
+    {
+      "document": "integrative/systems-theory-perspective.md",
+      "title": "Systems Theory Perspective on Human Dysfunction",
+      "incomingReferences": 10,
+      "outgoingReferences": 30,
+      "totalReferences": 40
+    },
+    {
+      "document": "integrative/theoretical-synthesis.md",
+      "title": "Theoretical Synthesis: Integrating Multiple Frameworks for Understanding Human Dysfunction",
+      "incomingReferences": 4,
+      "outgoingReferences": 37,
+      "totalReferences": 41
+    },
+    {
+      "document": "societal/cultural-pathology.md",
+      "title": "Cultural Pathology: Ideological Extremism, Value System Collapse, and Cultural Decay",
+      "incomingReferences": 29,
+      "outgoingReferences": 12,
+      "totalReferences": 41
+    },
+    {
+      "document": "societal/economic-system-dysfunction.md",
+      "title": "Economic System Dysfunction: Market Failures, Inequality, and Systemic Risk",
+      "incomingReferences": 19,
+      "outgoingReferences": 12,
+      "totalReferences": 31
+    },
+    {
+      "document": "societal/environmental-degradation.md",
+      "title": "Environmental Degradation: Human-Environment Interaction Failures",
+      "incomingReferences": 8,
+      "outgoingReferences": 12,
+      "totalReferences": 20
+    },
+    {
+      "document": "societal/political-systems-failure.md",
+      "title": "Political Systems Failure: Democratic Backsliding and Governance Collapse",
+      "incomingReferences": 39,
+      "outgoingReferences": 12,
+      "totalReferences": 51
+    },
+    {
+      "document": "societal/technological-disruption.md",
+      "title": "Technological Disruption: How Technology Exacerbates Human Problems",
+      "incomingReferences": 11,
+      "outgoingReferences": 12,
+      "totalReferences": 23
+    },
+    {
+      "document": "specialized/aging-mortality-anxiety.md",
+      "title": "Aging and Mortality Anxiety: Psychological Responses to Temporal Finitude",
+      "incomingReferences": 7,
+      "outgoingReferences": 11,
+      "totalReferences": 18
+    },
+    {
+      "document": "specialized/communication-language-failures.md",
+      "title": "Communication and Language Failures: Systematic Breakdowns in Human Information Exchange",
+      "incomingReferences": 7,
+      "outgoingReferences": 11,
+      "totalReferences": 18
+    },
+    {
+      "document": "specialized/education-knowledge-transmission-failures.md",
+      "title": "Education and Knowledge Transmission Failures: Systematic Breakdowns in Human Learning",
+      "incomingReferences": 6,
+      "outgoingReferences": 15,
+      "totalReferences": 21
+    },
+    {
+      "document": "specialized/gender-sexuality-dysfunction.md",
+      "title": "Gender and Sexuality Dysfunction: Psychological and Social Pathologies",
+      "incomingReferences": 4,
+      "outgoingReferences": 12,
+      "totalReferences": 16
+    },
+    {
+      "document": "specialized/power-dominance.md",
+      "title": "Power and Dominance: Psychological Drives and Social Consequences",
+      "incomingReferences": 6,
+      "outgoingReferences": 13,
+      "totalReferences": 19
+    },
+    {
+      "document": "templates/document-template.md",
+      "title": "[Document Title]",
+      "incomingReferences": 0,
+      "outgoingReferences": 6,
+      "totalReferences": 6
+    }
+  ],
+  "recommendations": [
+    {
+      "type": "broken_links",
+      "priority": "high",
+      "message": "Fix 10 broken internal links",
+      "details": [
+        {
+          "source": "index/master-index.md",
+          "target": "workshop/README.md",
+          "linkText": "**Workshop Materials**",
+          "type": "broken_file"
+        },
+        {
+          "source": "index/master-index.md",
+          "target": "workshop/README.md",
+          "linkText": "Workshop Materials",
+          "type": "broken_file"
+        },
+        {
+          "source": "individual/addiction-compulsion.md",
+          "target": "individual/README.md",
+          "linkText": "Individual Psychology Overview",
+          "type": "broken_file"
+        },
+        {
+          "source": "individual/behavioral-economics.md",
+          "target": "individual/README.md",
+          "linkText": "Individual Psychology Overview",
+          "type": "broken_file"
+        },
+        {
+          "source": "individual/cognitive-architecture.md",
+          "target": "individual/README.md",
+          "linkText": "Individual Psychology Overview",
+          "type": "broken_file"
+        }
+      ]
+    },
+    {
+      "type": "missing_references",
+      "priority": "medium",
+      "message": "Resolve 96 missing cross-references",
+      "details": [
+        {
+          "source": "README.md",
+          "reference": "Category → Document",
+          "type": "see",
+          "category": "Category",
+          "document": "Document"
+        },
+        {
+          "source": "README.md",
+          "reference": "Category → Document",
+          "type": "related",
+          "category": "Category",
+          "document": "Document"
+        },
+        {
+          "source": "README.md",
+          "reference": "Category → Document",
+          "type": "compare",
+          "category": "Category",
+          "document": "Document"
+        },
+        {
+          "source": "historical/civilizational-collapse.md",
+          "reference": "Individual Psychology → Cognitive Biases",
+          "type": "see",
+          "category": "Individual Psychology",
+          "document": "Cognitive Biases"
+        },
+        {
+          "source": "historical/civilizational-collapse.md",
+          "reference": "Group Dynamics → Elite Pathologies",
+          "type": "related",
+          "category": "Group Dynamics",
+          "document": "Elite Pathologies"
+        }
+      ]
+    }
+  ]
+}
